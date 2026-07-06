@@ -62,3 +62,7 @@ The xyz here is the command line argument for the name of the feature extraction
 
 ![alt text](pop_up2.png)   
 8.  You can modify the code in the "caption_generator.py" file and add a different model (.keras file) as desired.
+## Repository Information
+- Maintainer: nayanpat
+- Repository: ece5831-final-project-2024
+- Last README standardization: 2026-07-06
